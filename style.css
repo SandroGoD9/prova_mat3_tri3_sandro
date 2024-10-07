@@ -1,0 +1,41 @@
+body { 
+background:linear-gradient(#b805cf, #000) ;
+color: rgb(29, 7, 7);
+margin: 0px;
+border-bottom: solid 2px rgb(20, 38, 200);
+}
+
+header {
+border: solid 2px rgb(92, 200, 20);
+padding: 25px;
+font-size: 32px;
+color: rgb(103, 7, 141);
+font-family: "Edu AU VIC WA NT Guides", cursive;
+}
+
+.chamada {
+    border-bottom: solid 2px rgb(26, 200, 20);
+background-color: rgb(190, 15, 15);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+font-family: "Ubuntu", sans-serif;
+}
+
+.chamada-texto {
+margin-right: 5%;
+}
+
+h1{font-size: 35px;}
+h2{font-size: 25px;}
+
+.nome { 
+text-align: center;
+font-size: 25px;
+}
+
+img {
+   width: 300px;
+   height: 200px;
+}
